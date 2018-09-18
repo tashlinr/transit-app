@@ -1,6 +1,5 @@
 # Extension of original
 
-
 change directory into transit-test
 Will print next 3 departure times for a searched station.
 
