@@ -1,14 +1,14 @@
-## Improved Version of transit-test.
+# Improved Version of transit-test.
 
-### Program prints next departures for a given searched station on the NYC-MTA.
+## Program prints next departures for a given searched station on the NYC-MTA.
 
-#### Updates
+### Updates
 - Cleaned up code.
 - Added more user inputs.
 - Added rudimentary unit testing.
 
 
-#### User
+### User
 Change Directory into transit_test_2
 
 Command line:
@@ -23,8 +23,7 @@ python main.py "Pelham" "2019-11-11 12:10"
 
 python main.py "42 st" "2019-08-08 8:34" "6"
 
-
-#### Parameters
+### Parameters
   Parameters:
   
   - Search Station(str): Station User wants to search departures for.
