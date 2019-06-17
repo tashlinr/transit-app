@@ -23,9 +23,7 @@ python main.py "Pelham" "2019-11-11 12:10"
 
 python main.py "42 st" "2019-08-08 8:34" "6"
 
-### Parameters
-  Parameters:
-  
+### Parameters: 
   - Search Station(str): Station User wants to search departures for.
   
   - Search Time(str): Specific time user wants to search for. 
